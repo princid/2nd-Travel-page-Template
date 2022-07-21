@@ -1,5 +1,6 @@
 # 2nd-Travel-page-Template
 
+https://princid.github.io/2nd-Travel-page-Template/
 
 - Created a Travel website's Landing page.
 - Implemented super cool Video Background in HTML.
