@@ -1,10 +1,10 @@
 # 2nd-Travel-page-Template
 
 
-\item Created a Travel website's Landing page.
-\item Implemented super cool Video Background in HTML.
-\item Learnt some cool CSS animations and better design perspectives.
-\item Implemented gradient color buttons.
+- Created a Travel website's Landing page.
+- Implemented super cool Video Background in HTML.
+- Learnt some cool CSS animations and better design perspectives.
+- Implemented gradient color buttons.
 
 ![image](https://user-images.githubusercontent.com/90444477/179998171-482b58a0-f291-468e-8f72-970e67603123.png)
 
